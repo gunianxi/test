@@ -14,6 +14,7 @@ public class AnimalDemo {
         Cat c2=new Cat("加菲猫",5);
         System.out.println(c2.getName()+","+c2.getAge());
         c2.catchMouse();
+        //test
 
         Dog d1=new Dog();
         d1.setName("嗷呜");
